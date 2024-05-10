@@ -23,6 +23,8 @@ Accomplished the stated tasks on the provided document
 - Coin Counter HUD
 - Help Screen
 - All Assets use a custom Open Source Asset
+- Spawner Objects (one for each interactable object)
+- Object Pooling for the interactable objects
 
 ## Notes:
 - Controls are as defined in the Documentation.
